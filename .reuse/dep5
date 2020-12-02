@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: aoc2020
+Upstream-Contact: Aluísio Augusto Silva Gonçalves <https://aasg.name>
+Source: https://github.com/AluisioASG/aoc2020
+
+Files: *-input.txt
+Copyright: 2020 Eric Wastl
+License: NOASSERTION
+Comment: I (Aluísio) don't think list of numbers are copyrightable, but I won't commit to that for REUSE's sake.

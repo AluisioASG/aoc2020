@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Aluísio Augusto Silva Gonçalves <https://aasg.name>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 { pkgs ? import <nixpkgs> { }, lib ? pkgs.lib }:
 with lib;
 pipe ./1-input.txt [
